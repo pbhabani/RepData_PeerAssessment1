@@ -7,6 +7,7 @@ Show any code that is needed to
 2. Process/transform the data (if necessary) into a format suitable for your analysis
 
 
+
 ```{r}
 data <- read.csv(unz("repdata_data_activity.zip", "activity.csv"))
 
